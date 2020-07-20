@@ -4,5 +4,7 @@ green
 blue
 yellow
 black
+light green
+light blue
 orange
 pink
