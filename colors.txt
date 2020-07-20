@@ -4,9 +4,5 @@ green
 blue
 yellow
 black
-<<<<<<< HEAD
-##brown
-=======
-brown
-purple
->>>>>>> fb4a7473214a6efd70e926b745087080333a0ab4
+orange
+pink
