@@ -1,2 +1,6 @@
 red
 cyan
+green
+blue
+yellow
+black
